@@ -11,6 +11,8 @@ int main()
     std::cout<<"Enter the element number: ";
     std::cin>>elementNumber;
     
+    if(elementNumber > 0)
+    {
         do
         {
             result = firstValue + secondValue;
@@ -26,5 +28,10 @@ int main()
         while (index < elementNumber);
     
         std::cout<<"Your element = "<<result<<std::endl;
-
+    }
+    
+    else
+    {
+        std::cout<<"Invalid input!\n";
+    }
 }
