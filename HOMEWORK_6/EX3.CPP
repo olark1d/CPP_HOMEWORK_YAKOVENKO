@@ -15,9 +15,7 @@ int main()
         }
 
         std::cout<<"Factorial of "<<inputNum<<" = "<<result<<std::endl; 
-    
     }
-
     else
     {
         std::cout<<"Invalid input!\n";

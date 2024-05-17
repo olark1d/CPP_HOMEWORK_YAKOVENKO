@@ -3,18 +3,19 @@
 int main()
 {
     int startNumber;
-    int endNumber;
+    int numbersCount;
     int stepNumber;
 
-    std::cout<<"Enter start number, step number and end number: ";
-    std::cin>>startNumber>>stepNumber>>endNumber;
+    std::cout<<"Enter start number, step number and the number of elements: ";
+    std::cin>>startNumber>>stepNumber>>numbersCount;
 
-    if(startNumber > 0 && stepNumber > 0 && endNumber > 0)
+    if(startNumber > 0 && stepNumber > 0 && numbersCount > 0)
     {
         std::cout<<"Arithmetic progression: \n";
-        for(int i = startNumber; i <= endNumber; i+=stepNumber)
+        for(int i = 0; i < numbersCount; i++)
         {
-            std::cout<< i<<" ";
+            startNumber+=stepNumber;
+            std::cout<<startNumber<<" ";
         }
     }
     else

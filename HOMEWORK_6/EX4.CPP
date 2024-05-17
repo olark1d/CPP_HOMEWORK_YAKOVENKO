@@ -49,6 +49,23 @@ int main()
         }
 
         std::cout<<std::endl;
+
+        for(int i = 0; i < height; i++)
+        {
+            int space = 0;
+            while(space < i)
+            {
+                std::cout<<" ";
+                space++;
+            }
+            for(int j = 0; j < width; j++)
+            {
+                std::cout<<"*";
+            }
+            std::cout<<std::endl;
+        }
+
+        std::cout<<std::endl;
         
         for(int i = 1; i <= height; i++)
         {
