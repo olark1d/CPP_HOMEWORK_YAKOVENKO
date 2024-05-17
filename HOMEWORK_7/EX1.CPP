@@ -2,6 +2,13 @@
 #include <cstdlib>
 #include <ctime>
 
+enum class GameElement 
+    {
+        rock,
+        paper, 
+        scissor
+    };
+
 int main()
 {
     std::cout<<"Hello! Welcome to 'Rock paper scissors' game for 2 players.\n";
@@ -11,6 +18,7 @@ int main()
     int statWins = 0;
     int statLosses = 0;
     int statDraws = 0;
+    GameElement PCChoice, userChoice;
 
     std::srand(std::time(nullptr));
 
@@ -32,77 +40,96 @@ int main()
                 "     r - rock     p - paper     s - scissors\n";
                 std::cout<<"Your choice is ";
                 std::cin>>userSymbol;
-            
-        
 
-                int PCSymbol = std::rand() % 3; // 0 - r; 1 - p; 2 - s;
-
-                switch (userSymbol)
+                if(userSymbol == 'r' || userSymbol == 'p' || userSymbol == 's')
                 {
-                    case 'r':
-                        if(PCSymbol == 0)
-                        {   
-                            std::cout<<"PC choise is R\n"<<"It's DRAW\n\n";
-                            statDraws++;
-                            statRounds++;
-                        }
-                        else if(PCSymbol == 1)
-                        {
-                            std::cout<<"PC choise is P\n"<<"You LOSE\n\n";
-                            statLosses++;
-                            statRounds++;
-                        }
-                        else
-                        {
-                            std::cout<<"PC choise is S\n"<<"You WIN\n\n";
-                            statWins++;
-                            statRounds++;
-                        }
-                    break;
-                    case 'p':
-                        if(PCSymbol == 0)
-                        {   
-                            std::cout<<"PC choise is R\n"<<"You WIN\n\n";
-                            statWins++;
-                            statRounds++;
-                        }
-                        else if(PCSymbol == 1)
-                        {
-                            std::cout<<"PC choise is P\n"<<"It's DRAW\n\n";
-                            statDraws++;
-                            statRounds++;
-                        }
-                        else
-                        {
-                            std::cout<<"PC choise is S\n"<<"You LOSE\n\n";
-                            statLosses++;
-                            statRounds++;
-                        }
-                    break;
-                    case 's':
-                        if(PCSymbol == 0)
-                        {   
-                            std::cout<<"PC choise is R\n"<<"You Lose\n\n";
-                            statLosses++;
-                            statRounds++;
-                        }
-                        else if(PCSymbol == 1)
-                        {
-                            std::cout<<"PC choise is P\n"<<"You WIN\n\n";
-                            statWins++;
-                            statRounds++;
-                        }
-                        else
-                        {
-                            std::cout<<"PC choise is S\n"<<"It's DRAW\n\n";
-                            statDraws++;
-                            statRounds++;
-                        }   
+                    switch (userSymbol) 
+                    {
+                        case 'r': 
+                        userChoice = GameElement::rock; 
+                        break;
+                        case 'p':
+                        userChoice = GameElement::paper; 
+                        break;
+                        case 's': 
+                        userChoice = GameElement::scissor; 
+                        break;
+                    }
 
-                    break;            
-                    default:
-                    std::cout<<"Invalid symbol! Try again.\n\n";
-                    i--;
+                    const int PCSymbol = std::rand() % 3; // 0 - r; 1 - p; 2 - s;
+                    if(PCSymbol == 0)
+                    std::cout<<"PC choice is R\n";
+                    else if(PCSymbol == 1)
+                    std::cout<<"PC choice is P\n";
+                    else
+                    std::cout<<"PC choise is S\n";
+
+                    switch (PCSymbol) 
+                    {
+                        case 0: 
+                        PCChoice = GameElement::rock; 
+                        break;
+                        case 1: 
+                        PCChoice = GameElement::paper; 
+                        break;
+                        case 2: 
+                        PCChoice = GameElement::scissor; 
+                        break;
+                    }
+
+                    if (userChoice == PCChoice) 
+                    {
+                        std::cout<<"It's DRAW\n\n";
+                        statDraws++;
+                    } 
+                    else 
+                    {
+                        switch (userChoice) 
+                        {
+                            case GameElement::rock:
+                                if(PCChoice == GameElement::paper) 
+                                {
+                                    std::cout << "You LOSE\n\n";
+                                    statLosses++;
+                                } 
+                                else 
+                                {
+                                    std::cout << "You WIN\n\n";
+                                    statWins++;
+                                }
+                            break;
+                            case GameElement::paper:
+                                if (PCChoice == GameElement::scissor) 
+                                {
+                                    std::cout << "You LOSE\n\n";
+                                    statLosses++;
+                                } 
+                                else 
+                                {
+                                    std::cout << "You WIN\n\n";
+                                    statWins++;
+                                }
+                            break;
+                            case GameElement::scissor:
+                                if (PCChoice == GameElement::rock) 
+                                {
+                                    std::cout << "You LOSE\n\n";
+                                    statLosses++;
+                                } 
+                                else 
+                                {
+                                    std::cout << "You WIN\n\n";
+                                    statWins++;
+                                }
+                            break;
+                        }
+                    }
+                statRounds++;
+                }
+                else
+                {
+                   std::cout<<"Invalid symbol! Try again.\n"; 
+                   i--;
                 }
             }
         }
