@@ -1,17 +1,17 @@
 #include <iostream>
+#include <cmath>
 
-const float PI = 3.14;
 float getArea(float radius)
 {
     float area;
-    area = PI * (radius * radius);
+    area = M_PI * (radius * radius);
     return area;
 }
 
 float getCircumference(float radius)
 {
     float circuit;
-    circuit = 2 * PI * radius;
+    circuit = 2 * M_PI * radius;
     return circuit;
 }
 
