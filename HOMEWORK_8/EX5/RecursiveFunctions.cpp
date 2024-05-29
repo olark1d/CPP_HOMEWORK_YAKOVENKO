@@ -10,13 +10,11 @@ void printFromBiggerToSmallerByRecursion(int count)
     printFromBiggerToSmallerByRecursion(count - 1);
 }
 
-int number = 1;
-void printFromSmallerToBiggerByRecursion(int count)
+void printFromSmallerToBiggerByRecursion(int count, int number)
 {
     if(number > count)
-        return;
+    return;
 
     std::cout<<number<<std::endl;
-    number++;
-    printFromSmallerToBiggerByRecursion(count);
+    printFromSmallerToBiggerByRecursion(count, number + 1);
 }

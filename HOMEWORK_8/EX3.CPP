@@ -29,15 +29,13 @@ void printFromBiggerToSmallerByRecursion(int count)
     printFromBiggerToSmallerByRecursion(count - 1);
 }
 
-int number = 1;
-void printFromSmallerToBiggerByRecursion(int count)
+void printFromSmallerToBiggerByRecursion(int count, int number)
 {
     if(number > count)
     return;
 
     std::cout<<number<<std::endl;
-    number++;
-    printFromSmallerToBiggerByRecursion(count);
+    printFromSmallerToBiggerByRecursion(count, number + 1);
 }
 
 int main()
@@ -56,5 +54,5 @@ int main()
 
     std::cout<<"From Smaller to Bigger by Recursion:\n"; 
 
-    printFromSmallerToBiggerByRecursion(count);
+    printFromSmallerToBiggerByRecursion(count, 1);
 }

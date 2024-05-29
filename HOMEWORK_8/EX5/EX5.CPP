@@ -15,6 +15,6 @@ int main()
     printFromBiggerToSmallerByRecursion(count);
 
     std::cout << "From Smaller to Bigger by Recursion:\n";
-    printFromSmallerToBiggerByRecursion(count);
+    printFromSmallerToBiggerByRecursion(count, 1);
 
 }
