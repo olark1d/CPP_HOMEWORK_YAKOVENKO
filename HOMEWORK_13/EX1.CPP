@@ -49,6 +49,7 @@ void roundOfGame(const char* word)
     while(exit != -1)
     {
         char input[5];
+        bool used[wordSize] = { false };  //bool for avoiding used symbols  
         std::cout<<"RESULT : "<<result<<std::endl;
         std::cout<<"ENTER  : ";
         std::cin>>input;
@@ -59,7 +60,6 @@ void roundOfGame(const char* word)
 
         for(int i = 0; i < wordSize; i++)
         {
-            bool used[wordSize] = { false };  //bool for avoiding used symbols  
             if(word[i] == input[i] || std::tolower(word[i]) == input[i]) //fills in the letters that are in their place
             {
                 result[i] = word[i];
@@ -150,7 +150,7 @@ void launchRandomWordle()
 
     int rand = std::rand() % 26; //random word
 
-    std::string strWord = Random_Word_Base[rand];
+    std::string strWord = "SPEAK";
     const char* word = strWord.c_str(); // string to char
 
     roundOfGame(word);
