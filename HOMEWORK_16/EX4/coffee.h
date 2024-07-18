@@ -1,5 +1,4 @@
 #pragma once
-#include <ctime>
 
 enum coffeeType
 {
@@ -11,7 +10,6 @@ enum coffeeType
 class coffee
 {
     public:
-
     coffee(coffeeType type);
 
     void prepare();
