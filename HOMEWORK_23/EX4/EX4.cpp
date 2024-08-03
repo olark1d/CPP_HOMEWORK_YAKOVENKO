@@ -50,7 +50,8 @@ void create_cycle(Node* head, int pos)
 
     while (tail->next != nullptr) 
     {
-        if (count == pos) {
+        if (count == pos) 
+        {
             cycle_node = tail;
         }
         tail = tail->next;
