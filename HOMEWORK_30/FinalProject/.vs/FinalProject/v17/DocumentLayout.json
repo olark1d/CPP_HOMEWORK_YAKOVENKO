@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_30\\FinalProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1AC84EF-A1C6-4241-8415-FA0C28F111A5}|FinalProject.vcxproj|C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_30\\FinalProject\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1AC84EF-A1C6-4241-8415-FA0C28F111A5}|FinalProject.vcxproj|solutionrelative:Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1AC84EF-A1C6-4241-8415-FA0C28F111A5}|FinalProject.vcxproj|C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_30\\FinalProject\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1AC84EF-A1C6-4241-8415-FA0C28F111A5}|FinalProject.vcxproj|solutionrelative:Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1AC84EF-A1C6-4241-8415-FA0C28F111A5}|FinalProject.vcxproj|C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_30\\FinalProject\\GameOverState.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1AC84EF-A1C6-4241-8415-FA0C28F111A5}|FinalProject.vcxproj|solutionrelative:GameOverState.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1AC84EF-A1C6-4241-8415-FA0C28F111A5}|FinalProject.vcxproj|C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_30\\FinalProject\\GameOverState.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1AC84EF-A1C6-4241-8415-FA0C28F111A5}|FinalProject.vcxproj|solutionrelative:GameOverState.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1AC84EF-A1C6-4241-8415-FA0C28F111A5}|FinalProject.vcxproj|C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_30\\FinalProject\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1AC84EF-A1C6-4241-8415-FA0C28F111A5}|FinalProject.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1AC84EF-A1C6-4241-8415-FA0C28F111A5}|FinalProject.vcxproj|C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_30\\FinalProject\\MenuState.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1AC84EF-A1C6-4241-8415-FA0C28F111A5}|FinalProject.vcxproj|solutionrelative:MenuState.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1AC84EF-A1C6-4241-8415-FA0C28F111A5}|FinalProject.vcxproj|C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_30\\FinalProject\\MenuState.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1AC84EF-A1C6-4241-8415-FA0C28F111A5}|FinalProject.vcxproj|solutionrelative:MenuState.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1AC84EF-A1C6-4241-8415-FA0C28F111A5}|FinalProject.vcxproj|C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_30\\FinalProject\\PauseState.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1AC84EF-A1C6-4241-8415-FA0C28F111A5}|FinalProject.vcxproj|solutionrelative:PauseState.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1AC84EF-A1C6-4241-8415-FA0C28F111A5}|FinalProject.vcxproj|C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_30\\FinalProject\\PauseState.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1AC84EF-A1C6-4241-8415-FA0C28F111A5}|FinalProject.vcxproj|solutionrelative:PauseState.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1AC84EF-A1C6-4241-8415-FA0C28F111A5}|FinalProject.vcxproj|C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_30\\FinalProject\\Platform.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1AC84EF-A1C6-4241-8415-FA0C28F111A5}|FinalProject.vcxproj|solutionrelative:Platform.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1AC84EF-A1C6-4241-8415-FA0C28F111A5}|FinalProject.vcxproj|C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_30\\FinalProject\\Platform.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1AC84EF-A1C6-4241-8415-FA0C28F111A5}|FinalProject.vcxproj|solutionrelative:Platform.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameOverState.cpp",
+              "DocumentMoniker": "C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_30\\FinalProject\\GameOverState.cpp",
+              "RelativeDocumentMoniker": "GameOverState.cpp",
+              "ToolTip": "C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_30\\FinalProject\\GameOverState.cpp",
+              "RelativeToolTip": "GameOverState.cpp",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAFQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-22T16:03:13.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameOverState.h",
+              "DocumentMoniker": "C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_30\\FinalProject\\GameOverState.h",
+              "RelativeDocumentMoniker": "GameOverState.h",
+              "ToolTip": "C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_30\\FinalProject\\GameOverState.h",
+              "RelativeToolTip": "GameOverState.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-22T16:02:57.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PauseState.cpp",
+              "DocumentMoniker": "C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_30\\FinalProject\\PauseState.cpp",
+              "RelativeDocumentMoniker": "PauseState.cpp",
+              "ToolTip": "C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_30\\FinalProject\\PauseState.cpp",
+              "RelativeToolTip": "PauseState.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-22T16:02:45.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PauseState.h",
+              "DocumentMoniker": "C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_30\\FinalProject\\PauseState.h",
+              "RelativeDocumentMoniker": "PauseState.h",
+              "ToolTip": "C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_30\\FinalProject\\PauseState.h",
+              "RelativeToolTip": "PauseState.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-22T16:02:27.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MenuState.cpp",
+              "DocumentMoniker": "C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_30\\FinalProject\\MenuState.cpp",
+              "RelativeDocumentMoniker": "MenuState.cpp",
+              "ToolTip": "C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_30\\FinalProject\\MenuState.cpp",
+              "RelativeToolTip": "MenuState.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-22T16:02:16.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MenuState.h",
+              "DocumentMoniker": "C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_30\\FinalProject\\MenuState.h",
+              "RelativeDocumentMoniker": "MenuState.h",
+              "ToolTip": "C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_30\\FinalProject\\MenuState.h",
+              "RelativeToolTip": "MenuState.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-22T16:01:54.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Platform.cpp",
+              "DocumentMoniker": "C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_30\\FinalProject\\Platform.cpp",
+              "RelativeDocumentMoniker": "Platform.cpp",
+              "ToolTip": "C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_30\\FinalProject\\Platform.cpp",
+              "RelativeToolTip": "Platform.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADwAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-22T16:01:39.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Platform.h",
+              "DocumentMoniker": "C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_30\\FinalProject\\Platform.h",
+              "RelativeDocumentMoniker": "Platform.h",
+              "ToolTip": "C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_30\\FinalProject\\Platform.h",
+              "RelativeToolTip": "Platform.h",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-22T16:01:22.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game.cpp",
+              "DocumentMoniker": "C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_30\\FinalProject\\Game.cpp",
+              "RelativeDocumentMoniker": "Game.cpp",
+              "ToolTip": "C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_30\\FinalProject\\Game.cpp",
+              "RelativeToolTip": "Game.cpp",
+              "ViewState": "AQIAAFkBAAAAAAAAAAAAAK0BAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-22T16:00:57.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Game.h",
+              "DocumentMoniker": "C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_30\\FinalProject\\Game.h",
+              "RelativeDocumentMoniker": "Game.h",
+              "ToolTip": "C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_30\\FinalProject\\Game.h",
+              "RelativeToolTip": "Game.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-22T16:00:35.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_30\\FinalProject\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_30\\FinalProject\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-16T18:59:35.063Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
