@@ -1,0 +1,44 @@
+﻿  Game.cpp
+C:\Users\olark\Desktop\GameDev projects\HOMEWORK_30\FinalProject\Game.cpp(89,37): warning C4244: '=': conversion from 'T' to 'float', possible loss of data
+C:\Users\olark\Desktop\GameDev projects\HOMEWORK_30\FinalProject\Game.cpp(89,37): warning C4244:         with
+C:\Users\olark\Desktop\GameDev projects\HOMEWORK_30\FinalProject\Game.cpp(89,37): warning C4244:         [
+C:\Users\olark\Desktop\GameDev projects\HOMEWORK_30\FinalProject\Game.cpp(89,37): warning C4244:             T=unsigned int
+C:\Users\olark\Desktop\GameDev projects\HOMEWORK_30\FinalProject\Game.cpp(89,37): warning C4244:         ]
+  GameOverState.cpp
+C:\Users\olark\Desktop\GameDev projects\HOMEWORK_30\FinalProject\Game.cpp(126,17): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+C:\Users\olark\Desktop\GameDev projects\HOMEWORK_30\FinalProject\Game.cpp(126,17): warning C4244:         with
+C:\Users\olark\Desktop\GameDev projects\HOMEWORK_30\FinalProject\Game.cpp(126,17): warning C4244:         [
+C:\Users\olark\Desktop\GameDev projects\HOMEWORK_30\FinalProject\Game.cpp(126,17): warning C4244:             T=unsigned int
+C:\Users\olark\Desktop\GameDev projects\HOMEWORK_30\FinalProject\Game.cpp(126,17): warning C4244:         ]
+C:\Users\olark\Desktop\GameDev projects\HOMEWORK_30\FinalProject\Game.cpp(160,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\olark\Desktop\GameDev projects\HOMEWORK_30\FinalProject\Game.cpp(282,48): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\olark\Desktop\GameDev projects\HOMEWORK_30\FinalProject\Game.cpp(282,48): warning C4244:         with
+C:\Users\olark\Desktop\GameDev projects\HOMEWORK_30\FinalProject\Game.cpp(282,48): warning C4244:         [
+C:\Users\olark\Desktop\GameDev projects\HOMEWORK_30\FinalProject\Game.cpp(282,48): warning C4244:             T=unsigned int
+C:\Users\olark\Desktop\GameDev projects\HOMEWORK_30\FinalProject\Game.cpp(282,48): warning C4244:         ]
+C:\Users\olark\Desktop\GameDev projects\HOMEWORK_30\FinalProject\Game.cpp(338,56): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\olark\Desktop\GameDev projects\HOMEWORK_30\FinalProject\Game.cpp(338,56): warning C4244:         with
+C:\Users\olark\Desktop\GameDev projects\HOMEWORK_30\FinalProject\Game.cpp(338,56): warning C4244:         [
+C:\Users\olark\Desktop\GameDev projects\HOMEWORK_30\FinalProject\Game.cpp(338,56): warning C4244:             T=unsigned int
+C:\Users\olark\Desktop\GameDev projects\HOMEWORK_30\FinalProject\Game.cpp(338,56): warning C4244:         ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\xutility(388,82): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\xutility(388,82): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\xutility(388,82): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\xutility(388,82): warning C4244:             _Ty=int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\xutility(388,82): warning C4244:         ]
+C:\Users\olark\Desktop\GameDev projects\HOMEWORK_30\FinalProject\GameOverState.cpp(35,75): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\olark\Desktop\GameDev projects\HOMEWORK_30\FinalProject\GameOverState.cpp(35,75): warning C4244:         with
+C:\Users\olark\Desktop\GameDev projects\HOMEWORK_30\FinalProject\GameOverState.cpp(35,75): warning C4244:         [
+C:\Users\olark\Desktop\GameDev projects\HOMEWORK_30\FinalProject\GameOverState.cpp(35,75): warning C4244:             T=unsigned int
+C:\Users\olark\Desktop\GameDev projects\HOMEWORK_30\FinalProject\GameOverState.cpp(35,75): warning C4244:         ]
+C:\Users\olark\Desktop\GameDev projects\HOMEWORK_30\FinalProject\GameOverState.cpp(35,50): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\olark\Desktop\GameDev projects\HOMEWORK_30\FinalProject\GameOverState.cpp(35,50): warning C4244:         with
+C:\Users\olark\Desktop\GameDev projects\HOMEWORK_30\FinalProject\GameOverState.cpp(35,50): warning C4244:         [
+C:\Users\olark\Desktop\GameDev projects\HOMEWORK_30\FinalProject\GameOverState.cpp(35,50): warning C4244:             T=unsigned int
+C:\Users\olark\Desktop\GameDev projects\HOMEWORK_30\FinalProject\GameOverState.cpp(35,50): warning C4244:         ]
+  MenuState.cpp
+  PauseState.cpp
+  Platform.cpp
+  Generating Code...
+  main.cpp
+  FinalProject.vcxproj -> C:\Users\olark\Desktop\GameDev projects\HOMEWORK_30\FinalProject\x64\Debug\FinalProject.exe
