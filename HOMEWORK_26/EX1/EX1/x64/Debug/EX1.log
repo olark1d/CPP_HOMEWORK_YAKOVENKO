@@ -1,0 +1,23 @@
+﻿  AIMoveBestRouteComponent.cpp
+C:\Users\olark\Desktop\GameDev projects\HOMEWORK_26\EX1\Component.h(62,24): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\olark\Desktop\GameDev projects\HOMEWORK_26\EX1\Component.h(63,34): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\olark\Desktop\GameDev projects\HOMEWORK_26\EX1\AIMoveBestRouteComponent.cpp(63,43): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\olark\Desktop\GameDev projects\HOMEWORK_26\EX1\AIMoveBestRouteComponent.cpp(63,28): warning C4267: 'initializing': conversion from 'size_t' to 'const unsigned int', possible loss of data
+C:\Users\olark\Desktop\GameDev projects\HOMEWORK_26\EX1\AIMoveBestRouteComponent.cpp(64,46): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\olark\Desktop\GameDev projects\HOMEWORK_26\EX1\AIMoveBestRouteComponent.cpp(64,28): warning C4267: 'initializing': conversion from 'size_t' to 'const unsigned int', possible loss of data
+  GameObjects.cpp
+C:\Users\olark\Desktop\GameDev projects\HOMEWORK_26\EX1\Component.h(62,24): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\olark\Desktop\GameDev projects\HOMEWORK_26\EX1\Component.h(63,34): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\olark\Desktop\GameDev projects\HOMEWORK_26\EX1\GameObjects.cpp(113,41): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+C:\Users\olark\Desktop\GameDev projects\HOMEWORK_26\EX1\GameObjects.cpp(113,41): warning C4244:         with
+C:\Users\olark\Desktop\GameDev projects\HOMEWORK_26\EX1\GameObjects.cpp(113,41): warning C4244:         [
+C:\Users\olark\Desktop\GameDev projects\HOMEWORK_26\EX1\GameObjects.cpp(113,41): warning C4244:             T=float
+C:\Users\olark\Desktop\GameDev projects\HOMEWORK_26\EX1\GameObjects.cpp(113,41): warning C4244:         ]
+C:\Users\olark\Desktop\GameDev projects\HOMEWORK_26\EX1\GameObjects.cpp(114,41): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+C:\Users\olark\Desktop\GameDev projects\HOMEWORK_26\EX1\GameObjects.cpp(114,41): warning C4244:         with
+C:\Users\olark\Desktop\GameDev projects\HOMEWORK_26\EX1\GameObjects.cpp(114,41): warning C4244:         [
+C:\Users\olark\Desktop\GameDev projects\HOMEWORK_26\EX1\GameObjects.cpp(114,41): warning C4244:             T=float
+C:\Users\olark\Desktop\GameDev projects\HOMEWORK_26\EX1\GameObjects.cpp(114,41): warning C4244:         ]
+  Graph.cpp
+  Generating Code...
+  EX1.vcxproj -> C:\Users\olark\Desktop\GameDev projects\HOMEWORK_26\EX1\x64\Debug\EX1.exe

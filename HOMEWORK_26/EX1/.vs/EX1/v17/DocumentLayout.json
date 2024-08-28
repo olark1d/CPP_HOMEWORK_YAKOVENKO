@@ -1,0 +1,445 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_26\\EX1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{130D5E2F-C166-47DB-AE68-C9132EC06E9D}|EX1.vcxproj|C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_26\\EX1\\Graph.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{130D5E2F-C166-47DB-AE68-C9132EC06E9D}|EX1.vcxproj|solutionrelative:Graph.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{130D5E2F-C166-47DB-AE68-C9132EC06E9D}|EX1.vcxproj|C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_26\\EX1\\Graph.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{130D5E2F-C166-47DB-AE68-C9132EC06E9D}|EX1.vcxproj|solutionrelative:Graph.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{130D5E2F-C166-47DB-AE68-C9132EC06E9D}|EX1.vcxproj|C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_26\\EX1\\AIMoveBestRouteComponent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{130D5E2F-C166-47DB-AE68-C9132EC06E9D}|EX1.vcxproj|solutionrelative:AIMoveBestRouteComponent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{130D5E2F-C166-47DB-AE68-C9132EC06E9D}|EX1.vcxproj|C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_26\\EX1\\MathHelper.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{130D5E2F-C166-47DB-AE68-C9132EC06E9D}|EX1.vcxproj|solutionrelative:MathHelper.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{130D5E2F-C166-47DB-AE68-C9132EC06E9D}|EX1.vcxproj|C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_26\\EX1\\WindowHelper.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{130D5E2F-C166-47DB-AE68-C9132EC06E9D}|EX1.vcxproj|solutionrelative:WindowHelper.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{130D5E2F-C166-47DB-AE68-C9132EC06E9D}|EX1.vcxproj|C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_26\\EX1\\SoundManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{130D5E2F-C166-47DB-AE68-C9132EC06E9D}|EX1.vcxproj|solutionrelative:SoundManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{130D5E2F-C166-47DB-AE68-C9132EC06E9D}|EX1.vcxproj|C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_26\\EX1\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{130D5E2F-C166-47DB-AE68-C9132EC06E9D}|EX1.vcxproj|solutionrelative:Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{130D5E2F-C166-47DB-AE68-C9132EC06E9D}|EX1.vcxproj|C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_26\\EX1\\Map.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{130D5E2F-C166-47DB-AE68-C9132EC06E9D}|EX1.vcxproj|solutionrelative:Map.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{130D5E2F-C166-47DB-AE68-C9132EC06E9D}|EX1.vcxproj|C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_26\\EX1\\GameWorld.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{130D5E2F-C166-47DB-AE68-C9132EC06E9D}|EX1.vcxproj|solutionrelative:GameWorld.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{130D5E2F-C166-47DB-AE68-C9132EC06E9D}|EX1.vcxproj|C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_26\\EX1\\GameStateManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{130D5E2F-C166-47DB-AE68-C9132EC06E9D}|EX1.vcxproj|solutionrelative:GameStateManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{130D5E2F-C166-47DB-AE68-C9132EC06E9D}|EX1.vcxproj|C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_26\\EX1\\GameState.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{130D5E2F-C166-47DB-AE68-C9132EC06E9D}|EX1.vcxproj|solutionrelative:GameState.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{130D5E2F-C166-47DB-AE68-C9132EC06E9D}|EX1.vcxproj|C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_26\\EX1\\GameObjects.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{130D5E2F-C166-47DB-AE68-C9132EC06E9D}|EX1.vcxproj|solutionrelative:GameObjects.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{130D5E2F-C166-47DB-AE68-C9132EC06E9D}|EX1.vcxproj|C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_26\\EX1\\FontManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{130D5E2F-C166-47DB-AE68-C9132EC06E9D}|EX1.vcxproj|solutionrelative:FontManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{130D5E2F-C166-47DB-AE68-C9132EC06E9D}|EX1.vcxproj|C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_26\\EX1\\Component.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{130D5E2F-C166-47DB-AE68-C9132EC06E9D}|EX1.vcxproj|solutionrelative:Component.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{130D5E2F-C166-47DB-AE68-C9132EC06E9D}|EX1.vcxproj|C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_26\\EX1\\CollisionCounter.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{130D5E2F-C166-47DB-AE68-C9132EC06E9D}|EX1.vcxproj|solutionrelative:CollisionCounter.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{130D5E2F-C166-47DB-AE68-C9132EC06E9D}|EX1.vcxproj|C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_26\\EX1\\AIMoveBestRouteComponent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{130D5E2F-C166-47DB-AE68-C9132EC06E9D}|EX1.vcxproj|solutionrelative:AIMoveBestRouteComponent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{130D5E2F-C166-47DB-AE68-C9132EC06E9D}|EX1.vcxproj|C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_26\\EX1\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{130D5E2F-C166-47DB-AE68-C9132EC06E9D}|EX1.vcxproj|solutionrelative:Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{130D5E2F-C166-47DB-AE68-C9132EC06E9D}|EX1.vcxproj|C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_26\\EX1\\Map.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{130D5E2F-C166-47DB-AE68-C9132EC06E9D}|EX1.vcxproj|solutionrelative:Map.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{130D5E2F-C166-47DB-AE68-C9132EC06E9D}|EX1.vcxproj|C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_26\\EX1\\GameWorld.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{130D5E2F-C166-47DB-AE68-C9132EC06E9D}|EX1.vcxproj|solutionrelative:GameWorld.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{130D5E2F-C166-47DB-AE68-C9132EC06E9D}|EX1.vcxproj|C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_26\\EX1\\GameStateManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{130D5E2F-C166-47DB-AE68-C9132EC06E9D}|EX1.vcxproj|solutionrelative:GameStateManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{130D5E2F-C166-47DB-AE68-C9132EC06E9D}|EX1.vcxproj|C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_26\\EX1\\GameState.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{130D5E2F-C166-47DB-AE68-C9132EC06E9D}|EX1.vcxproj|solutionrelative:GameState.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{130D5E2F-C166-47DB-AE68-C9132EC06E9D}|EX1.vcxproj|C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_26\\EX1\\GameObjects.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{130D5E2F-C166-47DB-AE68-C9132EC06E9D}|EX1.vcxproj|solutionrelative:GameObjects.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{130D5E2F-C166-47DB-AE68-C9132EC06E9D}|EX1.vcxproj|C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_26\\EX1\\Component.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{130D5E2F-C166-47DB-AE68-C9132EC06E9D}|EX1.vcxproj|solutionrelative:Component.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{130D5E2F-C166-47DB-AE68-C9132EC06E9D}|EX1.vcxproj|C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_26\\EX1\\CollisionCounter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{130D5E2F-C166-47DB-AE68-C9132EC06E9D}|EX1.vcxproj|solutionrelative:CollisionCounter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{130D5E2F-C166-47DB-AE68-C9132EC06E9D}|EX1.vcxproj|C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_26\\EX1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{130D5E2F-C166-47DB-AE68-C9132EC06E9D}|EX1.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WindowHelper.h",
+              "DocumentMoniker": "C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_26\\EX1\\WindowHelper.h",
+              "RelativeDocumentMoniker": "WindowHelper.h",
+              "ToolTip": "C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_26\\EX1\\WindowHelper.h",
+              "RelativeToolTip": "WindowHelper.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-10T20:54:54.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SoundManager.h",
+              "DocumentMoniker": "C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_26\\EX1\\SoundManager.h",
+              "RelativeDocumentMoniker": "SoundManager.h",
+              "ToolTip": "C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_26\\EX1\\SoundManager.h",
+              "RelativeToolTip": "SoundManager.h",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAiwCMAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-10T20:54:43.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Player.h",
+              "DocumentMoniker": "C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_26\\EX1\\Player.h",
+              "RelativeDocumentMoniker": "Player.h",
+              "ToolTip": "C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_26\\EX1\\Player.h",
+              "RelativeToolTip": "Player.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-10T20:54:31.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MathHelper.h",
+              "DocumentMoniker": "C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_26\\EX1\\MathHelper.h",
+              "RelativeDocumentMoniker": "MathHelper.h",
+              "ToolTip": "C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_26\\EX1\\MathHelper.h",
+              "RelativeToolTip": "MathHelper.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-10T20:54:20.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Map.h",
+              "DocumentMoniker": "C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_26\\EX1\\Map.h",
+              "RelativeDocumentMoniker": "Map.h",
+              "ToolTip": "C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_26\\EX1\\Map.h",
+              "RelativeToolTip": "Map.h",
+              "ViewState": "AQIAABYAAAAAAAAAAAAiwDEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-10T20:54:10.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Graph.h",
+              "DocumentMoniker": "C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_26\\EX1\\Graph.h",
+              "RelativeDocumentMoniker": "Graph.h",
+              "ToolTip": "C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_26\\EX1\\Graph.h",
+              "RelativeToolTip": "Graph.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-10T20:53:57.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GameWorld.h",
+              "DocumentMoniker": "C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_26\\EX1\\GameWorld.h",
+              "RelativeDocumentMoniker": "GameWorld.h",
+              "ToolTip": "C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_26\\EX1\\GameWorld.h",
+              "RelativeToolTip": "GameWorld.h",
+              "ViewState": "AQIAABkAAAAAAAAAAAAiwDQAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-10T20:53:45.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GameStateManager.h",
+              "DocumentMoniker": "C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_26\\EX1\\GameStateManager.h",
+              "RelativeDocumentMoniker": "GameStateManager.h",
+              "ToolTip": "C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_26\\EX1\\GameStateManager.h",
+              "RelativeToolTip": "GameStateManager.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAiwBsAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-10T20:53:16.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GameState.h",
+              "DocumentMoniker": "C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_26\\EX1\\GameState.h",
+              "RelativeDocumentMoniker": "GameState.h",
+              "ToolTip": "C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_26\\EX1\\GameState.h",
+              "RelativeToolTip": "GameState.h",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAiwCkAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-10T20:53:04.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GameObjects.h",
+              "DocumentMoniker": "C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_26\\EX1\\GameObjects.h",
+              "RelativeDocumentMoniker": "GameObjects.h",
+              "ToolTip": "C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_26\\EX1\\GameObjects.h",
+              "RelativeToolTip": "GameObjects.h",
+              "ViewState": "AQIAADQAAAAAAAAAAAAiwE8AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-10T20:50:31.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FontManager.h",
+              "DocumentMoniker": "C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_26\\EX1\\FontManager.h",
+              "RelativeDocumentMoniker": "FontManager.h",
+              "ToolTip": "C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_26\\EX1\\FontManager.h",
+              "RelativeToolTip": "FontManager.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-10T20:50:20.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Component.h",
+              "DocumentMoniker": "C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_26\\EX1\\Component.h",
+              "RelativeDocumentMoniker": "Component.h",
+              "ToolTip": "C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_26\\EX1\\Component.h",
+              "RelativeToolTip": "Component.h",
+              "ViewState": "AQIAACwAAAAAAAAAAAAiwEcAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-10T20:50:10Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CollisionCounter.h",
+              "DocumentMoniker": "C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_26\\EX1\\CollisionCounter.h",
+              "RelativeDocumentMoniker": "CollisionCounter.h",
+              "ToolTip": "C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_26\\EX1\\CollisionCounter.h",
+              "RelativeToolTip": "CollisionCounter.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-10T20:49:58.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AIMoveBestRouteComponent.h",
+              "DocumentMoniker": "C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_26\\EX1\\AIMoveBestRouteComponent.h",
+              "RelativeDocumentMoniker": "AIMoveBestRouteComponent.h",
+              "ToolTip": "C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_26\\EX1\\AIMoveBestRouteComponent.h",
+              "RelativeToolTip": "AIMoveBestRouteComponent.h",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAiwCEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-10T20:49:46.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Player.cpp",
+              "DocumentMoniker": "C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_26\\EX1\\Player.cpp",
+              "RelativeDocumentMoniker": "Player.cpp",
+              "ToolTip": "C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_26\\EX1\\Player.cpp",
+              "RelativeToolTip": "Player.cpp",
+              "ViewState": "AQIAADIAAAAAAAAAAAAiwE0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-10T20:49:09.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Map.cpp",
+              "DocumentMoniker": "C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_26\\EX1\\Map.cpp",
+              "RelativeDocumentMoniker": "Map.cpp",
+              "ToolTip": "C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_26\\EX1\\Map.cpp",
+              "RelativeToolTip": "Map.cpp",
+              "ViewState": "AQIAAIIAAAAAAAAAAAAiwJ0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-10T20:48:56.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Graph.cpp",
+              "DocumentMoniker": "C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_26\\EX1\\Graph.cpp",
+              "RelativeDocumentMoniker": "Graph.cpp",
+              "ToolTip": "C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_26\\EX1\\Graph.cpp",
+              "RelativeToolTip": "Graph.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-10T20:48:45.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GameWorld.cpp",
+              "DocumentMoniker": "C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_26\\EX1\\GameWorld.cpp",
+              "RelativeDocumentMoniker": "GameWorld.cpp",
+              "ToolTip": "C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_26\\EX1\\GameWorld.cpp",
+              "RelativeToolTip": "GameWorld.cpp",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAiwGUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-10T20:48:32.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GameStateManager.cpp",
+              "DocumentMoniker": "C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_26\\EX1\\GameStateManager.cpp",
+              "RelativeDocumentMoniker": "GameStateManager.cpp",
+              "ToolTip": "C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_26\\EX1\\GameStateManager.cpp",
+              "RelativeToolTip": "GameStateManager.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-10T20:48:20.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GameState.cpp",
+              "DocumentMoniker": "C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_26\\EX1\\GameState.cpp",
+              "RelativeDocumentMoniker": "GameState.cpp",
+              "ToolTip": "C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_26\\EX1\\GameState.cpp",
+              "RelativeToolTip": "GameState.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-10T20:48:08.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GameObjects.cpp",
+              "DocumentMoniker": "C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_26\\EX1\\GameObjects.cpp",
+              "RelativeDocumentMoniker": "GameObjects.cpp",
+              "ToolTip": "C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_26\\EX1\\GameObjects.cpp",
+              "RelativeToolTip": "GameObjects.cpp",
+              "ViewState": "AQIAAHcAAAAAAAAAAAAiwJIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-10T20:47:53.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Component.cpp",
+              "DocumentMoniker": "C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_26\\EX1\\Component.cpp",
+              "RelativeDocumentMoniker": "Component.cpp",
+              "ToolTip": "C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_26\\EX1\\Component.cpp",
+              "RelativeToolTip": "Component.cpp",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAiwF0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-10T20:47:42.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CollisionCounter.cpp",
+              "DocumentMoniker": "C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_26\\EX1\\CollisionCounter.cpp",
+              "RelativeDocumentMoniker": "CollisionCounter.cpp",
+              "ToolTip": "C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_26\\EX1\\CollisionCounter.cpp",
+              "RelativeToolTip": "CollisionCounter.cpp",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAiwB0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-10T20:47:28.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AIMoveBestRouteComponent.cpp",
+              "DocumentMoniker": "C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_26\\EX1\\AIMoveBestRouteComponent.cpp",
+              "RelativeDocumentMoniker": "AIMoveBestRouteComponent.cpp",
+              "ToolTip": "C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_26\\EX1\\AIMoveBestRouteComponent.cpp",
+              "RelativeToolTip": "AIMoveBestRouteComponent.cpp",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAuwEQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-10T20:47:13.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_26\\EX1\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\olark\\Desktop\\GameDev projects\\HOMEWORK_26\\EX1\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-10T20:46:39.564Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
